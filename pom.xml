@@ -6,7 +6,6 @@
 
     <groupId>com.happyhouzz.javafeatures</groupId>
     <artifactId>JenkinsDockerIntegration</artifactId>
-    <version>1.0-SNAPSHOT</version>
 
 
 </project>
